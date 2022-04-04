@@ -28,6 +28,7 @@ Version 1.0.  by Kin Ho.
   ```
   結果: 
   ![alt text](https://raw.githubusercontent.com/nacky012001/Python-tutorials/main/lecture%202/images/if-1.PNG)
+  
   1 + 1的答案是2，因此Python會印出 `'1 + 1 is equal to 2.'`。
   而非`'1 + 1 is not equal to 0. This line will not be printed out.'`
   
@@ -93,8 +94,3 @@ Version 1.0.  by Kin Ho.
   if magic(12):                                 # 註解1: 至此的勇者阿，不要妄圖更改此段代碼，這很魔法. 於2021-04-01
     print('This is magic.')                     # 我試過了，上面說的很對. 於2022-04-01
   ```
- 
- 
-
-  
-
