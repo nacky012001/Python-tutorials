@@ -35,7 +35,7 @@ Version 1.0.  by Kin Ho.
   ![alt text](https://raw.githubusercontent.com/nacky012001/Python-tutorials/main/lecture%202/images/jupyter-notebook-create-python2.PNG)
 
 - #### Step 5. 輸入，並點擊 ![alt text](https://raw.githubusercontent.com/nacky012001/Python-tutorials/main/lecture%202/images/run-button.PNG)
-  ```
+  ```python
   print('hello-world')
   ```
   ![alt text](https://raw.githubusercontent.com/nacky012001/Python-tutorials/main/lecture%202/images/hello-world.PNG)
