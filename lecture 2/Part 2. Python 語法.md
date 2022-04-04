@@ -28,6 +28,7 @@ Version 1.0.  by Kin Ho.
   ```
   結果: 
   ![alt text](https://raw.githubusercontent.com/nacky012001/Python-tutorials/main/lecture%202/images/if-1.PNG)
+  
   1 + 1的答案是2，因此Python會印出 `'1 + 1 is equal to 2.'`。
   而非`'1 + 1 is not equal to 0. This line will not be printed out.'`
   
