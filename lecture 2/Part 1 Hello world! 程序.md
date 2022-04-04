@@ -39,3 +39,9 @@ Version 1.0.  by Kin Ho.
   print('hello-world')
   ```
   ![alt text](https://raw.githubusercontent.com/nacky012001/Python-tutorials/main/lecture%202/images/hello-world.PNG)
+ 
+- #### Step 6. 點擊Untitled更改檔案名稱
+  ![alt text](https://raw.githubusercontent.com/nacky012001/Python-tutorials/main/lecture%202/images/rename-py1.PNG)
+  
+- #### Step 7. 輸入hello_world
+  ![alt text](https://raw.githubusercontent.com/nacky012001/Python-tutorials/main/lecture%202/images/rename-py2.PNG)
