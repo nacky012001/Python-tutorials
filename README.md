@@ -18,19 +18,19 @@ Version 1.0.  by Kin Ho.
 ### Numpy 與 Pandas
 - [ ] [安裝numpy與pandas](#install-numpy-and-pandas)
 - [ ] [Numpy常用函數](#instroduce-numpy)
-- [ ] [Pandas: Dataframe 與 Series]
-- [ ] [Pandas: 讀取文件]
-- [ ] [Pandas: 常用函數]
-- [ ] [Pandas: 資料操作]
+- [ ] [Pandas: Dataframe 與 Series]()
+- [ ] [Pandas: 讀取文件]()
+- [ ] [Pandas: 常用函數]()
+- [ ] [Pandas: 資料操作]()
 
 ### 使用Python寫爬蟲
-- [ ] [介紹常見資料格式: XML, JSON與HTML]
-- [ ] [讀取網頁與API]
-- [ ] [透過Selenium實現網頁操作]
-- [ ] [定時自動執行: 介紹sched]
+- [ ] [介紹常見資料格式: XML, JSON與HTML]()
+- [ ] [讀取網頁與API]()
+- [ ] [透過Selenium實現網頁操作]()
+- [ ] [定時自動執行: 介紹sched]()
 
 ### 使用Sklearn辨別手寫數字
-- [ ] 安裝sklearn
-- [ ] 機器學習的基礎
-- [ ] 訓練資料集
-- [ ] 使用程序識別手寫數字
+- [ ] [安裝sklearn]()
+- [ ] [機器學習的基礎]()
+- [ ] [訓練資料集]()
+- [ ] [使用程序識別手寫數字]()
