@@ -3,16 +3,16 @@
 Version 1.0.  by Kin Ho. 
 2022 April. 
 
-### 安裝Python
-- [ ] [安裝Anaconda]()
-
 ### 初窺Python
+- [ ] [安裝Anaconda]()
 - [ ] [Hello world! 程序](#part-1-hello-world-程序-hello-world)
 - [ ] [Python 語法](#syntax)
 - [ ] [運算子](#operators)
 - [ ] [變量與型別](#types-and-variables)
-- [ ] [List, Tuple, Set 與 Dictionary](#list-tuple-set-dictionary)
 - [ ] [判斷與循環](#condition-and-loop)
+
+### Python 常用語法與函數
+- [ ] [List, Tuple, Set 與 Dictionary](#list-tuple-set-dictionary)
 - [ ] [函數](#function)
 - [ ] [日期與計算](#date-and-math)
 - [ ] [異常處理](#error-handling)
